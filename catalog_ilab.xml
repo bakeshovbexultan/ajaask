@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog date="2020-10-05 09:01">
+  <offers>
+    <offer id="12474">
+      <name>Apple iPhone 11 Pro Max 256GB Space gray (серый космос)</name>
+      <vendor>Apple</vendor>
+      <price>584990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12475">
+      <name>Apple iPhone 11 Pro Max 256GB  Silver ( серебристый)</name>
+      <vendor>Apple</vendor>
+      <price>584990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12476">
+      <name>Apple iPhone 11 Pro Max 256GB Gold ( золотистый )</name>
+      <vendor>Apple</vendor>
+      <price>584990</price>
+      <stores>
+        <store postcode="010000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12477">
+      <name>Apple iPhone 11 Pro Max 256GB  Midnight Green ( темно - зеленый )</name>
+      <vendor>Apple</vendor>
+      <price>584990</price>
+      <stores>
+        <store postcode="010000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12480">
+      <name>Apple iPhone 11 Pro Max 64GB Gold ( золотистый )</name>
+      <vendor>Apple</vendor>
+      <price>544990</price>
+      <stores>
+        <store postcode="010000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12481">
+      <name>Apple iPhone 11 Pro Max 64GB  Midnight Green ( темно - зеленый )</name>
+      <vendor>Apple</vendor>
+      <price>544990</price>
+      <stores>
+        <store postcode="010000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12484">
+      <name>Apple iPhone 11 Pro 256GB Gold (золотой)</name>
+      <vendor>Apple</vendor>
+      <price>544990</price>
+      <stores>
+        <store postcode="010000" stock="9999">true</store>
+      </stores>
+    </offer>
+    <offer id="12486">
+      <name>Apple iPhone 11 Pro 256GB Space gray (серый космос)</name>
+      <vendor>Apple</vendor>
+      <price>544990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12487">
+      <name>Apple iPhone 11 Pro 256GB Silver (серебристый)</name>
+      <vendor>Apple</vendor>
+      <price>544990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12489">
+      <name>Apple iPhone 11 Pro 256GB Midnight Green ( темно - зеленый )</name>
+      <vendor>Apple</vendor>
+      <price>544990</price>
+      <stores>
+        <store postcode="050000" stock="9997">true</store>
+      </stores>
+    </offer>
+    <offer id="12490">
+      <name>Apple iPhone 11 Pro 64GB Space gray (серый космос)</name>
+      <vendor>Apple</vendor>
+      <price>468990</price>
+      <stores>
+        <store postcode="050000" stock="9995">true</store>
+      </stores>
+    </offer>
+    <offer id="12491">
+      <name>Apple iPhone 11 Pro 64GB Silver (серебристый)</name>
+      <vendor>Apple</vendor>
+      <price>468990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12492">
+      <name>Apple iPhone 11 Pro 64GB Gold (золотой)</name>
+      <vendor>Apple</vendor>
+      <price>468990</price>
+      <stores>
+        <store postcode="050000" stock="9999">true</store>
+      </stores>
+    </offer>
+    <offer id="12493">
+      <name>Apple iPhone 11 Pro 64GB Midnight Green ( темно - зеленый )</name>
+      <vendor>Apple</vendor>
+      <price>468990</price>
+      <stores>
+        <store postcode="050000" stock="9994">true</store>
+      </stores>
+    </offer>
+    <offer id="12500">
+      <name>Apple iPhone 11 128GB Black</name>
+      <vendor>Apple</vendor>
+      <price>368990</price>
+      <stores>
+        <store postcode="050000" stock="9997">true</store>
+      </stores>
+    </offer>
+    <offer id="12501">
+      <name>Apple iPhone 11 128GB Purple</name>
+      <vendor>Apple</vendor>
+      <price>368990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12502">
+      <name>Apple iPhone 11 128GB Green</name>
+      <vendor>Apple</vendor>
+      <price>368990</price>
+      <stores>
+        <store postcode="050000" stock="9999">true</store>
+      </stores>
+    </offer>
+    <offer id="12503">
+      <name>Apple iPhone 11 128GB White</name>
+      <vendor>Apple</vendor>
+      <price>368990</price>
+      <stores>
+        <store postcode="050000" stock="9999">true</store>
+      </stores>
+    </offer>
+    <offer id="12504">
+      <name>Apple iPhone 11 128GB Yelow</name>
+      <vendor>Apple</vendor>
+      <price>368990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12505">
+      <name>Apple iPhone 11 128GB Red</name>
+      <vendor>Apple</vendor>
+      <price>368990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12506">
+      <name>Apple iPhone 11 64GB Black</name>
+      <vendor>Apple</vendor>
+      <price>334990</price>
+      <stores>
+        <store postcode="050000" stock="9995">true</store>
+      </stores>
+    </offer>
+    <offer id="12507">
+      <name>Apple iPhone 11 64GB Purple</name>
+      <vendor>Apple</vendor>
+      <price>334990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12508">
+      <name>Apple iPhone 11 64GB Green</name>
+      <vendor>Apple</vendor>
+      <price>334990</price>
+      <stores>
+        <store postcode="050000" stock="10000">true</store>
+      </stores>
+    </offer>
+    <offer id="12509">
+      <name>Apple iPhone 11 64GB White</name>
+      <vendor>Apple</vendor>
+      <price>334990</price>
+      <stores>
+        <store postcode="050000" stock="9999">true</store>
+      </stores>
+    </offer>
+    <offer id="12511">
+      <name>Apple iPhone 11 64GB Red</name>
+      <vendor>Apple</vendor>
+      <price>334990</price>
+      <stores>
+        <store postcode="050000" stock="9998">true</store>
+      </stores>
+    </offer>
+  </offers>
+</catalog>
