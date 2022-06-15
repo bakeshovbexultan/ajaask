@@ -1,5 +1,4 @@
 # taskToUseAjax
-Solved the problem where it was necessary to use ajax
 
 # View:
 
