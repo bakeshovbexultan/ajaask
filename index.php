@@ -17,7 +17,7 @@
 		function loadDoc() {
 		  const xhttp = new XMLHttpRequest();
 		  xhttp.onload = function() {myFunction(this);}
-		  xhttp.open("GET", "catalog_ilab.xml");
+		  xhttp.open("GET", "catalog.xml");
 		  xhttp.send();
 
 		function myFunction(xml) {

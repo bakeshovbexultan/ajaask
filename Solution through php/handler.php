@@ -1,7 +1,7 @@
 <?php
 
 $xmlDoc = new DOMDocument();
-$xmlDoc->load("catalog_ilab.xml");
+$xmlDoc->load("catalog.xml");
 
 $store = $xmlDoc->getElementsByTagName('store');
 $cities = [];
